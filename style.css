@@ -1,0 +1,43 @@
+* {
+    font-family: "Open sans";
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 40px;
+    margin: 0 0 16px 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 24px;
+}
+
+.btn {
+        background-color: #ffc108;
+        color: #FFFFFF;
+        padding: 8px 24px;
+}
+
+.btn-alt {
+            background-color: white;
+            color: #000000;
+            margin-right: 16px;
+            border: 2px solid #ffc108;
+            padding: 8px 24px;      
+}
+
+#Test1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#test1 h1{
+    margin: 0;
+}
+
+#Test1 nav a{
+  padding: 0 10px 0 10px;
+}
